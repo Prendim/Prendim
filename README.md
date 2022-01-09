@@ -1,7 +1,8 @@
 ### Olá, meu nome é Mateus Prendim 👋
 
 - 🔭 Atualmente trabalho como técnico em testes.
-- 🌱 Estou estudando sobre automação de testes em cypress e também fazendo alguns cursos de programação (JavaScript, PHP, Node.js, etc)
+- 🌱 Estou estudando sobre automação de testes e também fazendo alguns cursos de programação (JavaScript, PHP, Node.js, etc)
+- 📚 Tenho formação em técnico em informática e processos gerenciais, mas iniciei recentemente um curso de Análise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/Prendim">
